@@ -83,29 +83,7 @@ Frameworks & Tools
 
 </p>
 
----
 
-# 🎮 Favorite Game
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Free_Fire-FF6B00?style=for-the-badge&logo=garena&logoColor=white"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=allfaris13&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allfaris13&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -114,20 +92,6 @@ Frameworks & Tools
 <img src="https://streak-stats.demolab.com?user=allfaris13&theme=tokyonight"/>
 
 </p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alfaris13&theme=tokyo-night"/>
-
-</p>
-
-
-
-
 ---
 
 <div align="center">
