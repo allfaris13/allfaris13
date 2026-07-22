@@ -1,77 +1,157 @@
-<h1 align="center">Hi 👋, I'm [Nama Kamu]</h1>
-<h3 align="center">A passionate developer building modern web experiences & backend systems</h3>
+<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+
+<h3 align="center">
+Backend Developer • Fullstack Developer • Tech Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Web+%26+Backend+Engineer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Backend+Developer;Laravel+Developer;Go+Developer;Always+Learning+New+Things" />
 </p>
-<br>
+
+---
 
 ## 🚀 About Me
 
-* 🔭 I’m currently working on cool web and backend projects.
-* ⚡ Fun fact: When I'm not coding, you can find me playing **Free Fire**!
-* 📫 How to reach me: Use the social links below.
+- 💻 Passionate about Backend & Fullstack Development
+- 🌱 Currently learning Go & System Design
+- ⚡ Love building Web Applications
+- 🎮 Favorite Game: **Free Fire**
+- ☕ Coffee + Coding = Productivity
 
 ---
 
-## 📱 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://instagram.com/allfariaz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<a href="https://instagram.com/IG_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+</a>
+
+<a href="https://linkedin.com/in/LINKEDIN_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
 </p>
 
 ---
 
-## 🎥 Peek Into My World
+## 💻 Coding GIF
 
 <p align="center">
-  <img src="LINK_VIDEO_GIF_KAMU_DISINI" alt="GIF Animation" width="600px"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
 </p>
 
 ---
 
-## 🛠️ Frameworks, Languages & Tools
+# 🛠 Frameworks & Tools
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  
-  <br>
+<p align="center">
 
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://skillicons.dev/icons?i=go"/>
 
-  <br>
+<img src="https://skillicons.dev/icons?i=laravel"/>
 
-  <!-- Tools & Databases -->
-  <img src="https://img.shields.io/badge/Laragon-%23E87A00.svg?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+<img src="https://skillicons.dev/icons?i=php"/>
+
+<img src="https://skillicons.dev/icons?i=nextjs"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=typescript"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=vite"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=cs"/>
+
+</p>
+
+### Other Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Laragon-00ADEF?style=for-the-badge&logo=windows&logoColor=white"/>
+
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 🎮 Favorite Game
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+
+<img src="https://img.shields.io/badge/Free_Fire-FF6B00?style=for-the-badge&logo=garena&logoColor=white"/>
+
 </p>
 
+---
+
+# 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=radical&hide_border=true" alt="GitHub Streak"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
 </p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 👀 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
