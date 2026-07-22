@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm allfaris</h1>
+<p align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=allfaris&fontSize=50&fontColor=00ffcc&animation=fadeIn" />
+
+</p>
 <h3 align="center">
 Backend Developer • Fullstack Developer • Tech Enthusiast
 </h3>
@@ -23,7 +26,7 @@ Backend Developer • Fullstack Developer • Tech Enthusiast
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://instagram.com/IG_USERNAME" target="_blank">
+<a href="https://instagram.com/allfariaz" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
 </a>
 
@@ -83,11 +86,11 @@ Frameworks & Tools
 <img src="https://streak-stats.demolab.com?user=allfaris13&theme=tokyonight"/>
 
 </p>
----
+
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
 
 *"Code. Learn. Build. Repeat."*
 
