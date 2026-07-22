@@ -75,15 +75,6 @@ Frameworks & Tools
 
 </p>
 
-### Other Tools
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Laragon-00ADEF?style=for-the-badge&logo=windows&logoColor=white"/>
-
-</p>
-
-
 
 # 🔥 GitHub Streak
 
