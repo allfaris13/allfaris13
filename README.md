@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm allfaris</h1>
 
 <h3 align="center">
 Backend Developer • Fullstack Developer • Tech Enthusiast
@@ -10,7 +10,7 @@ Backend Developer • Fullstack Developer • Tech Enthusiast
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 💻 Passionate about Backend & Fullstack Development
 - 🌱 Currently learning Go & System Design
@@ -20,7 +20,7 @@ Backend Developer • Fullstack Developer • Tech Enthusiast
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="left">
 <a href="https://instagram.com/IG_USERNAME" target="_blank">
@@ -34,7 +34,7 @@ Backend Developer • Fullstack Developer • Tech Enthusiast
 
 ---
 
-## 💻 Coding GIF
+
 
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
@@ -42,7 +42,7 @@ Backend Developer • Fullstack Developer • Tech Enthusiast
 
 ---
 
-# 🛠 Frameworks & Tools
+# Frameworks & Tools
 
 <p align="center">
 
@@ -86,7 +86,7 @@ Backend Developer • Fullstack Developer • Tech Enthusiast
 
 ---
 
-# 🎮 Favorite Game
+# Favorite Game
 
 <p align="center">
 
@@ -96,13 +96,13 @@ Backend Developer • Fullstack Developer • Tech Enthusiast
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alfaris13&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allfaris13&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -112,7 +112,7 @@ Backend Developer • Fullstack Developer • Tech Enthusiast
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?alfaris13&theme=tokyonight"/>
 
 </p>
 
@@ -122,31 +122,10 @@ Backend Developer • Fullstack Developer • Tech Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?allfaris13&theme=tokyo-night"/>
 
 </p>
 
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 👀 Visitor Count
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
 
 <div align="center">
 
