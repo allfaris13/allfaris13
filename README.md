@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUR_NAME</h1>
+<h1 align="center">Hi 👋, I'm allfaris</h1>
 
 <h3 align="center">
 Backend Developer • Fullstack Developer • Tech Enthusiast
@@ -34,7 +34,6 @@ Backend Developer • Fullstack Developer • Tech Enthusiast
 
 ---
 
-## 💻 Coding GIF
 
 <p align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
@@ -42,7 +41,7 @@ Backend Developer • Fullstack Developer • Tech Enthusiast
 
 ---
 
-# 🛠 Frameworks & Tools
+Frameworks & Tools
 
 <p align="center">
 
