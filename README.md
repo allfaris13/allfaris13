@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:431556,50:862573,100:c65c89&height=200&section=header&text=allfaris&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:431556,50:862573,100:c65c89&height=200&section=header&text=allfaris&fontSize=50&fontColor=bf00ff&animation=fadeIn&descAlign=center&descAlign=center" />
 </p>
 <h3 align="center">
 Backend Developer • Fullstack Developer • Tech Enthusiast
@@ -77,7 +77,7 @@ Frameworks & Tools
 </p>
 
 
-# 🔥 GitHub Streak
+ ## GitHub Streak
 
 <p align="center">
 
@@ -88,8 +88,6 @@ Frameworks & Tools
 
 <div align="center">
 
-Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."*
+iq + ketenangan
 
 </div>
