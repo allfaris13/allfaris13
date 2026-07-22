@@ -6,7 +6,7 @@ Backend Developer • Fullstack Developer • Tech Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Backend+Developer;Laravel+Developer;Go+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=9400D3&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub!;Backend+Developer;Laravel+Developer;Go+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
