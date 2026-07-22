@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:431556,50:862573,100:c65c89&height=200&section=header&text=AKUREIFAN&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:431556,50:862573,100:c65c89&height=200&section=header&text=allfaris&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 <h3 align="center">
 Backend Developer • Fullstack Developer • Tech Enthusiast
