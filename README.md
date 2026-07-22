@@ -1,26 +1,16 @@
-# Let's create a complete, modern GitHub README markdown content string
-markdown_content = """
 <h1 align="center">Hi there 👋, I'm Allfaris</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Web+%26+Backend+Engineer;UI%2FUX+Enthusiast" alt="Typing SVG" />
 </p>
 
 <br>
 
-<div align="center">
-  <!-- Video Demo / Intro Showcase (Ganti link src dengan video mp4 kamu sendiri jika ada, atau gunakan animasi gif modern) -->
-  <video width="100%" max-width="600px" autoplay loop muted playsinline>
-    <source src="https://user-images.githubusercontent.com/your-username/your-video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
 ---
 
 ### 🚀 Tech Stack
 
 <p align="center">
-  <!-- Languages & Frontend -->
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
@@ -33,7 +23,6 @@ markdown_content = """
 
   <br>
 
-  <!-- Backend, Database & Tools -->
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/laragon-%231E1E1E.svg?style=for-the-badge&logo=laragon&logoColor=orange" />
@@ -52,5 +41,3 @@ markdown_content = """
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=allfaris13&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
 </p>
-"""
-print("Markdown generated successfully")
